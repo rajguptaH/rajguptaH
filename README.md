@@ -11,6 +11,7 @@
   </a>
 
 <br>
+<a href="https://github.com/rajguptaH/rajguptaH/stargazers"><img src="https://img.shields.io/github/stars/rajguptaH/rajguptaH" alt="Stars Badge"/></a>
 
 ### Quick stats about me
 
