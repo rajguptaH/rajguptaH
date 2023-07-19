@@ -1,9 +1,9 @@
-<h2> Hi, I'm Raj Narayan Gupta! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm </h2><h1> Raj Narayan Gupta ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 
 - :office: &nbsp;I'm currently working as .net Core mvc Full Stack Developer 
-- :seedling: &nbsp;I’m currently learning **.net Maui**
-- 🎵: &nbsp;I like to Listen Music 
+- :seedling: &nbsp;I’m currently learning **.AWS EBC WITH RDS**
+- 🎵: &nbsp;I love to Listen Music 
 - :mailbox: &nbsp;Ask me anything and Connect with me on my **[Instagram](https://instagram.com/raj__rr)**
 
   <a href="https://github.com/rajguptaH/rajguptaH">
