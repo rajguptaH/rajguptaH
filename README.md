@@ -2,7 +2,7 @@
 
 
 - :office: &nbsp;I'm currently working as .net Core mvc Full Stack Developer 
-- :seedling: &nbsp;I’m currently learning **.AWS EBC WITH RDS**
+- :seedling: &nbsp;I’m currently learning **AI/ML**
 - 🎵: &nbsp;I love to Listen Music 
 - :mailbox: &nbsp;Ask me anything and Connect with me on my **[Instagram](https://instagram.com/raj__rr)**
 
