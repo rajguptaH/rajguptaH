@@ -22,8 +22,8 @@
 ### 🔗 Connect with Me  
 - **Email:** [rajkumar00999.rk@gmail.com](mailto:rajkumar00999.rk@gmail.com)  
 - **Instagram:** [@raj__rr](https://instagram.com/raj__rr)  
-- **LinkedIn:** [Raj Narayan Gupta](#)  
-- **Portfolio:** [Coming Soon]  
+- **LinkedIn:** [Raj Narayan Gupta](https://www.linkedin.com/in/rajnarayangupta)  
+- **Portfolio:** [Fixelr Innovatives Private Limited](https://fixelr.in)  
 
 ---
 
