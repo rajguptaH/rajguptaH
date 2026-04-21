@@ -81,7 +81,6 @@
 📧 **Email:** [rajkumar00999.rk@gmail.com](mailto:rajkumar00999.rk@gmail.com)  
 💼 **LinkedIn:** [Raj Narayan Gupta](https://www.linkedin.com/in/rajnarayangupta)  
 📸 **Instagram:** [@raj__rr](https://instagram.com/raj__rr)  
-🌐 **Portfolio:** [Fixelr Innovatives Private Limited](https://fixelr.in)  
 👨‍💻 **GitHub:** [rajguptaH](https://github.com/rajguptaH)  
 
 ---
