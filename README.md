@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 💻 **Full Stack .NET Core Developer** with **4+ years of experience** in building scalable web, desktop, and mobile apps.  
+- 💻 **Full Stack .NET Core Developer** with **5+ years of experience** in building scalable web, desktop, and mobile apps.  
 - 🔧 Expertise in **ASP.NET Core, Blazor, Angular, ReactJS, Next.js, SignalR, RabbitMQ, CQRS, MediatR**.  
 - ☁️ Skilled in **Azure & AWS**, with CI/CD pipelines, GitHub Actions, and cloud-native deployments.  
 - 📱 Hands-on with **React Native, MAUI, WinForms**, and cross-platform mobile/desktop solutions.  
